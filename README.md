@@ -1,6 +1,6 @@
 ### Kopi-o-shimasu
 
-Kopi-o-shimasu is just a simple copy files/folders. 
+Kopi-o-shimasu is just simple copy files/folders. 
 Still time consuming but it saved minutes of my time at the moment. 😆 
 
 #experiments
