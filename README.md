@@ -13,5 +13,9 @@ Clone, then please see app.js file
 ```
 
 ```
+npm install
+```
+
+```
 npm start
 ```
